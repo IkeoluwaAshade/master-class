@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const AboutUs = () => {
   return (
     <Container>
-      <h1>Thi is the about page</h1>
+      <h1>This is the about page</h1>
     </Container>
   )
 }
